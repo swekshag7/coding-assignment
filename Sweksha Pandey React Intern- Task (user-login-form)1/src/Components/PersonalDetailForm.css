@@ -1,0 +1,44 @@
+*{
+    text-align: center;
+    background-color: rgb(248, 197, 229);
+
+}
+#name{
+   
+    justify-content: center;
+    align-items: center;
+    border-color: black;
+    width: 40vh;
+    height: 5vh;
+}
+#pannumber{
+   
+    justify-content: center;
+    align-items: center;
+    border-color: black;
+    width: 40vh;
+    height: 5vh;
+}
+
+#gender{
+    justify-content: center;
+    align-items: center;
+    border-color: black;
+    width: 40vh;
+    height: 5vh;
+}
+#aadharnumber{
+   
+    justify-content: center;
+    align-items: center;
+    border-color: black;
+    width: 40vh;
+    height: 5vh;
+}
+#submit{
+    justify-content: center;
+    align-items: center;
+    border-color: black;
+    width: 35vh;
+    height: 5vh;
+}
