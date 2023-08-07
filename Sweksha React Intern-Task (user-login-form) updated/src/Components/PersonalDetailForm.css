@@ -1,0 +1,56 @@
+*{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(191, 209, 243);
+
+}
+.personaldetail{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: rgb(99, 196, 235);
+    
+}
+
+#name{
+    border-color: darkblue;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    width: 30vh;
+    height: 2vh;
+}
+#pannumber{
+    border-color: darkblue;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    width: 30vh;
+    height: 2vh;
+    
+}
+#gender{
+    border-color: darkblue;
+    border-radius: 5px;
+
+}
+#aadharnumber{
+    border-color: darkblue;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    width: 30vh;
+    height: 2vh;
+    
+}
+#submit{
+    border-color: darkblue;
+    border-radius: 5px;
+    width: 20vh;
+    height: 2vh;
+    transition-duration: 0.4s;
+}
+#submit:hover {
+    background-color: darkblue;
+    color: rgb(202, 214, 238);
+  }
